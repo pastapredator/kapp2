@@ -50,7 +50,7 @@ p {
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 20px;
-  margin-left:20px;
+  margin-left:40px;
 }
 
 section {
@@ -58,7 +58,7 @@ section {
 }
 
 section h2 {
-  font-size: 50px;
+  font-size: 60px;
 }
 
 #mainNav {
@@ -211,19 +211,23 @@ section.download {
 section.download h2 {
   font-size: 50px;
   margin-top: 0;
+  margin-left:40px;
 }
 
 section.download .badges .badge-link {
   display: block;
   margin-bottom: 25px;
+  margin-left:40px;
 }
 
 section.download .badges .badge-link:last-child {
   margin-bottom: 0;
+  margin-left:40px;
 }
 
 section.download .badges .badge-link img {
   height: 60px;
+  margin-left:40px;
 }
 
 @media (min-width: 768px) {
